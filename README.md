@@ -20,7 +20,7 @@ Evidence that I have played an active role in contributing, teaching and organiz
 - ###### Tutorials I've written: 
   - [AWS (Amazon Web Server) Setup Tutorial](https://github.com/Jraylward0/Tutorials/blob/master/AWS.pdf)
   - [Hortonworks - Introducing Apache Hadoop to Developers](https://github.com/Jraylward0/Tutorials/blob/master/Hortonworks.pdf)
-  -[Setting up a WebServer Tutorial](https://github.com/Jraylward0/Tutorials/blob/master/WebServer.pdf)
+  - [Setting up a WebServer Tutorial](https://github.com/Jraylward0/Tutorials/blob/master/WebServer.pdf)
 - ###### Contributions I've made:
   - [Electronic Surveillance in the Modern World](https://github.com/Jraylward0/Case_Studys/blob/master/CCTV_Presintation.pptx)
 
