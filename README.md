@@ -54,14 +54,14 @@ technical digital skills throughout my career?"
 #### *"Proof of evidence of experimenting with new technologies, coding libraries, languages and tools"*
 Evidence of having undergone continuous learning / mastery of new digital skills (commercial or technical) throughout your career.
 
-- ###### Goals
+- ###### AR & VR
   - []()
   
-- ###### Languages
-  - []()
+- ###### Appeture and Exposure Code
+  - [Pull to Appeture Code .ash](https://github.com/Jraylward0/GoPro_Test_Code)
   
-- ###### Databases
-  - []()
+- ###### Current Project 
+  - [Pull to most current project](https://github.com/Jraylward0/GoPro_Test_Code)
 
 "How do I demonstrate that I have made academic contributions to the field through 
 recearch?"
