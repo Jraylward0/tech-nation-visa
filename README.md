@@ -65,3 +65,7 @@ Evidence of having undergone continuous learning / mastery of new digital skills
 
 "How do I demonstrate that I have made academic contributions to the field through 
 recearch?"
+
+- ###### Academic Papers
+  - [Pull request for Operating System & Concurrency](https://github.com/Jraylward0/Contributions/blob/master/Operating%20System%20%26%20Concurrency.docx)
+  - [Pull request for Emmbedded System Specification and Design](https://github.com/Jraylward0/Contributions/blob/master/Emmbedded%20System%20Specification%20and%20Design.docx)
