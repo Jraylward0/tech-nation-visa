@@ -8,7 +8,7 @@ Madatory Criteria:
 
 "How do I demonstrate that I have a proven trach record of innovation in the digital
 technology sector as a director, founder or employee of a digital technology sector
-compny?"
+company?"
 
 OR
 
