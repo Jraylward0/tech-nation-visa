@@ -51,5 +51,17 @@ digital technology sector?"
 "How do I demonstrate continuous learning / mastery of new commercial or
 technical digital skills throughout my career?"
 
+#### *"Proof of evidence of experimenting with new technologies, coding libraries, languages and tools"*
+Evidence of having undergone continuous learning / mastery of new digital skills (commercial or technical) throughout your career.
+
+- ###### Goals
+  - []()
+  
+- ###### Languages
+  - []()
+  
+- ###### Databases
+  - []()
+
 "How do I demonstrate that I have made academic contributions to the field through 
 recearch?"
